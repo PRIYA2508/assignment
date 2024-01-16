@@ -1,0 +1,14 @@
+.showlist{
+    width: 180px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: rgb(163, 148, 148);
+    border-radius: 18px;
+    /* border: 2px solid red; */
+}
+.storeimg{
+    width: 2vw;
+    height: 3vh;
+    border-radius: 100%;
+}

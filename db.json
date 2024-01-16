@@ -1,0 +1,97 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "priya sharma",
+      "username": "priya",
+      "email": "priya@gmail.com",
+      "address": "",
+      "phone": "1-770-736-8031 x56442",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXmXMnOUjxlTZrjCJjlg9jjODCGmLx8hpiYg&usqp=CAU"
+      
+    },
+    {
+      "id": 2,
+      "name": "ashtosh sharma",
+      "username": "ashtosh",
+      "email": "ashtosh@gmail.com",
+      "address": "",
+      "phone": "1-770-736-8031 x56442",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXmXMnOUjxlTZrjCJjlg9jjODCGmLx8hpiYg&usqp=CAU"
+    },
+    {
+      "id": 3,
+      "name": "tanu sharma",
+      "username": "tanu",
+      "email": "tanu@gmail.com",
+      "address": "",
+      "phone": "1-770-736-8031 x56442",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXmXMnOUjxlTZrjCJjlg9jjODCGmLx8hpiYg&usqp=CAU"
+    },
+    {
+      "id": 4,
+      "name": "priya34",
+      "username": "priya34",
+      "email": "priya@gmail.com",
+      "address": "",
+      "phone": "1-770-736-8031 x56442",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXmXMnOUjxlTZrjCJjlg9jjODCGmLx8hpiYg&usqp=CAU"
+      
+    },
+    {
+      "id": 5,
+      "name": "tanu234 sharma",
+      "username": "tanu",
+      "email": "tanu@gmail.com",
+      "address": "",
+      "phone": "1-770-736-8031 x56442",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXmXMnOUjxlTZrjCJjlg9jjODCGmLx8hpiYg&usqp=CAU"
+      
+    },
+    {
+      "id": 6,
+      "name": "hinata uzumaki",
+      "username": "hinata",
+      "email": "hinata@gmail.com",
+      "address": "",
+      "phone": "1-770-736-8031 x56442",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXmXMnOUjxlTZrjCJjlg9jjODCGmLx8hpiYg&usqp=CAU"
+    },
+    {
+      "id": 7,
+      "name": "priya 2",
+      "username": "priya2",
+      "email": "priya2@gmail.com",
+      "address": "",
+      "phone": "1-770-736-8031 x56442",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXmXMnOUjxlTZrjCJjlg9jjODCGmLx8hpiYg&usqp=CAU"
+    },
+    {
+      "id": 8,
+      "name": "priya 3",
+      "username": "priya3",
+      "email": "priya3@gmail.com",
+      "address": "",
+      "phone": "1-770-736-8031 x56442",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXmXMnOUjxlTZrjCJjlg9jjODCGmLx8hpiYg&usqp=CAU"
+    },
+    {
+      "id": 9,
+      "name": "priya 4",
+      "username": "priya4",
+      "email": "priya4@gmail.com",
+      "address": "",
+      "phone": "1-770-736-8031 x56442",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXmXMnOUjxlTZrjCJjlg9jjODCGmLx8hpiYg&usqp=CAU"
+    },
+    {
+      "id": 10,
+      "name": "priya 5",
+      "username": "priya5",
+      "email": "priya5@gmail.com",
+      "address": "",
+      "phone": "1-770-736-8031 x56442",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXmXMnOUjxlTZrjCJjlg9jjODCGmLx8hpiYg&usqp=CAU"
+    }
+  ]
+}

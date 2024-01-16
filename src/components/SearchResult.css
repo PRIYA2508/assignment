@@ -1,0 +1,17 @@
+.search-result {
+    padding: 10px 20px;
+  }
+  
+  .search-result:hover {
+    background-color: #efefef;
+  }
+  .img-logo{
+    width: 4vw;
+    height: 7vh;
+    border-radius: 100%;
+  }
+  .search-options{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
